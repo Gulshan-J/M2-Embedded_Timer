@@ -53,20 +53,20 @@ It has simple features.
 | Id    	| Description     	| Status      	|
 |-------	|-----------------	|-------------	|
 | HLR_1 	| Microcontroller 	| Implemented 	|
-| HlR_2 	| Swtich          	| Implemented 	|
+| HlR_2 	| Switch          	| Implemented 	|
 | HLR_3 	| Two LED         	| Implemented 	|
 | HLR_4 	| Software        	| Implemented 	|
 # Low Level Requirements
 | Id    	| Description              	| Status      	|
 |-------	|--------------------------	|-------------	|
 | LLR_1 	| ATmega328                	| Implemented 	|
-| LLR_2 	| Swtich                   	| Implemented 	|
+| LLR_2 	| Switch                   	| Implemented 	|
 | LLR_3 	| Two LED                  	| Implemented 	|
 | LLR_4 	| Visual studio & SimulIDE 	| Implemented 	|
 # Design
  1.This project uses ATmega328.
  
- 2.This system uses swtich to blink LED.
+ 2.This system uses switch to blink LED.
 
 # Behavior Diagram
 ![image](https://user-images.githubusercontent.com/94396238/144272780-fa1bfcc1-b1aa-45e7-8cd6-79aa6cbd1c49.png)
